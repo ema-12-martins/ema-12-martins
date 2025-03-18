@@ -8,3 +8,6 @@ Hi, my name is Ema, and I am currently in the first year of my Master's in Infor
     <img height="165px" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ema-12-martins&layout=compact&theme=transparent&langs_count=8&hide=Makefile,Cmake,jupyter%20notebook,Html,Pug,Dockerfile,TeX">
   </p>
 </section>
+
+[📄CV: ](https://github.com/ema-12-martins/documents/raw/main/cv.pdf)
+
