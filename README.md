@@ -9,5 +9,5 @@ Hi, my name is Ema, and I am currently in the first year of my Master's in Infor
   </p>
 </section>
 
-[📄CV: ](https://github.com/ema-12-martins/documents/raw/main/cv.pdf)
+📄CV: [click here](https://github.com/ema-12-martins/documents/raw/main/cv.pdf)
 
