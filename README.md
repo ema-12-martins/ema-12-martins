@@ -10,7 +10,7 @@ Hi, my name is Ema, and I am currently in the first year of my Master's in Infor
 </section>
 
 <p align="center">
-  <a href="https://github.com/ema-12-martins/cv/cv.pdf" target="_blank">📄 View mygit CV</a>
+  <a href="https://github.com/ema-12-martins/cv/cv.pdf" target="_blank">📄 View my CV here</a>
 </p>
 
 
