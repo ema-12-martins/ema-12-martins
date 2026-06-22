@@ -4,8 +4,6 @@ Hi, my name is Ema, and I am currently in the second year of my Master's in Info
 
 <div align="center">
   <h2>GitHub Stats</h2>
-  <!-- General Stats -->
-  <img height="165px" src="https://github-readme-stats.vercel.app/api?username=ema-12-martins&theme=transparent&hide_border=true&show_icons=true" alt="GitHub Stats" />
   <!-- Top Languages -->
   <img height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ema-12-martins&layout=compact&theme=transparent&langs_count=8&hide=Makefile,Cmake,jupyter%20notebook,Html,Pug,Dockerfile,TeX&hide_border=true" alt="Top Languages" />
 </div>
