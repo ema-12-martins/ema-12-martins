@@ -11,7 +11,7 @@ Let's connect or collaborate on building the future of immersive tech!
 <div align="center">
   <h2>GitHub Stats</h2>
   <!-- Top Languages -->
-  <img height="165px" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ema-12-martins&layout=compact&theme=transparent&langs_count=8&hide=Makefile,Cmake,jupyter%20notebook,Html,Pug,Dockerfile,TeX&hide_border=true" alt="Top Languages" />
+  <img height="165px" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ema-12-martins&layout=compact&theme=transparent&langs_count=8&hide=Makefile,Cmake,jupyter%20notebook,Html,ShaderLab,Haskell,CSS,Pug,Dockerfile,TeX&hide_border=true" alt="Top Languages" />
 </div>
 
 <p align="center">
