@@ -18,5 +18,9 @@ Let's connect or collaborate on building the future of immersive tech!
   <a href="https://github.com/ema-12-martins/cv/blob/main/cv.pdf" target="_blank">📄 View my CV here</a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/ema-12-martins/cv" target="_blank">🎮 View my video game portfolio here</a>
+</p>
+
 
 
