@@ -13,11 +13,13 @@ Let's connect or collaborate on building the future of immersive tech!
 </div>
 
 <p align="center">
-  <a href="https://github.com/ema-12-martins/cv/blob/main/cv.pdf" target="_blank">📄 View my CV here</a>
+  <a href="https://github.com/ema-12-martins/cv/blob/main/cv_video_games.pdf" target="_blank">🎮 View my Game Dev CV here</a>
 </p>
-
 <p align="center">
-  <a href="https://github.com/ema-12-martins/cv" target="_blank">🎮 View my video game portfolio here</a>
+  <a href="https://github.com/ema-12-martins/cv/blob/main/cv_dev.pdf" target="_blank">💻 View my Software Dev CV here</a>
+</p>
+<p align="center">
+  <a href="https://github.com/ema-12-martins/cv" target="_blank">🗂️ View my Portfolio here</a>
 </p>
 
 
